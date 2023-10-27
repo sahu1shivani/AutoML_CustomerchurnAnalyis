@@ -1,4 +1,4 @@
-# Bank Churn Modeling - README
+# Customer Churn Rate Analysis Using AutoML 
 
 ## Background
 Banks are keen to retain their valuable clients. They often focus on attracting new customers initially but eventually need to adopt a defensive approach to maintain their existing clientele. Even with excellent user experiences, a percentage of customers may decide to leave. The challenge is how to effectively prevent these voluntary exits, and a churn model can assist in addressing this.
