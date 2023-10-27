@@ -47,5 +47,5 @@ In this notebook, we examined how H2O AutoML can be used to:
 4. Explain the model’s predictions
 
 ## References:
-1. H2O.AI
-2. Youtube: H2o
+1. H2O.AI https://h2o.ai/
+2. Youtube: H2o https://www.youtube.com/user/0xdata
